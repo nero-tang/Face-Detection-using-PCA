@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/File">
+        <file>images/unknown.png</file>
+        <file>images/Folder Generic Green-01.png</file>
+        <file>images/Folder Generic Red-01.png</file>
+        <file>images/My Pictures.png</file>
+        <file>images/Zoom In-01.png</file>
+        <file>images/Zoom Out-01.png</file>
+		<file>images/Button Play-01.png</file>
+        <file>images/Button Turn On-01.png</file>
+    </qresource>
+</RCC>
